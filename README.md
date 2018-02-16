@@ -96,7 +96,7 @@ event LogPauseICO()
 ```
 **LogFinishICO**
 ```cs
-event LogFinishICO(address bountyFund, address advisorsFund, address teamFund, address challengeFund)
+event LogFinishICO(address bountyFund, address advisorsFund, address ItdFund, address storageFund)
 ```
 **LogBuyForInvestor**
 ```cs
